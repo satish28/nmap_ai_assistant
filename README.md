@@ -4,10 +4,7 @@ A command-line interface (CLI) tool for analyzing Nmap scan output and identifyi
 
 ## Requirements
 
-Ollama
-Click
-
-Install using - pip install -r requirements.txt
+- Install using - pip install -r requirements.txt
 
 ## Usage
 
@@ -16,6 +13,7 @@ Usage: app.py [OPTIONS] COMMAND [ARGS]...
  A CLI tool for network security analysis using Nmap scans.
 
 ## Options:
+  
   --help  Show this message and exit.
 
 ## Commands:
