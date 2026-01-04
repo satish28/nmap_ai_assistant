@@ -20,6 +20,15 @@ A command-line interface (CLI) tool for analyzing Nmap scan output and identifyi
   * exploit - Attempts to exploit identified vulnerabilities.
   * smart  -  Performs a smart Nmap scan.
 
+## Examples: 
+
+* assist Scan 
+
+* cve Scan
+
+* exploit Scan
+
+* Smart Scan
 
 ## License
 
