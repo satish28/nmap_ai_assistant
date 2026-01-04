@@ -13,12 +13,12 @@ Install using - pip install -r requirements.txt
 
 Usage: app.py [OPTIONS] COMMAND [ARGS]...
 
-  A CLI tool for network security analysis using Nmap scans.
+ A CLI tool for network security analysis using Nmap scans.
 
-Options:
+## Options:
   --help  Show this message and exit.
 
-Commands:
+## Commands:
   all      Performs a comprehensive Nmap scan.
   assist   Provides assistance and guidance based on scan results.
   cve      Scans for CVE vulnerabilities.
