@@ -24,11 +24,16 @@ A command-line interface (CLI) tool for analyzing Nmap scan output and identifyi
 
 * assist Scan 
 
+  ![Assist Scan][https://github.com/satish28/nmap_ai_assistant/blob/main/screenshots/Assistance_LLM.png]
+
 * cve Scan
+  ![CVE Scan](https://github.com/satish28/nmap_ai_assistant/blob/main/screenshots/CVE_LLM.png)
 
 * exploit Scan
+  ![Exploit Scan](https://github.com/satish28/nmap_ai_assistant/blob/main/screenshots/Exploit_LLM.png)
 
 * Smart Scan
+  ![Smart Scan](https://github.com/satish28/nmap_ai_assistant/blob/main/screenshots/Smart_Recon.png)
 
 ## License
 
